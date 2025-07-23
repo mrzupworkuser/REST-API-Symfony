@@ -1,5 +1,4 @@
 # Rest Api Symfony Application
-========================
 
 Requirements
 ------------
